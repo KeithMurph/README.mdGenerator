@@ -1,11 +1,11 @@
 
 #  Read Me Generator
 
- ## License MIT
+ ## License  MIT
 
 
  ## Description
- To Generate a readme file from command line promts
+ To Generate read me files
 
  ## Table of Contents
  - [Installation](#howToInstall)
@@ -15,18 +15,18 @@
  - [Questions](#questions)
 
  ## Installation
- take files from my repo, inquirer dependencie is required
+ dependencies required is Inquirer. get code from my repo
 
  ## Usage
- to wate less time writing read mes
+ to speed up the process of writing your read mes
     
    
 
  ## Credits
+- Na
 - NA
- - NA
- - NA
- - NA
+- NA
+- NA
 
 
  ## Tests
@@ -39,4 +39,4 @@
   KeithMurph
 
   -Email
-  https://www.linkedin.com/in/keith-murphy-650985213/
+  keithmurphy94@gmail.com

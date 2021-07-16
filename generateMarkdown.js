@@ -2,7 +2,7 @@ function generateMarkdown(data){
     return`
 #  ${data.title}
 
- ## License ${data.license}
+ ## License  ${data.license}
 
 
  ## Description
@@ -25,9 +25,9 @@ function generateMarkdown(data){
 
  ## Credits
 - ${data.credit}
- - ${data.credit1}
- - ${data.credit2}
- - ${data.credit3}
+- ${data.credit1}
+- ${data.credit2}
+- ${data.credit3}
 
 
  ## Tests
