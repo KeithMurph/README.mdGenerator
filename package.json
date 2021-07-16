@@ -16,6 +16,7 @@
   },
   "homepage": "https://github.com/KeithMurph/README.mdGenerator#readme",
   "dependencies": {
+   
     "inquirer": "^8.1.2"
   },
   "devDependencies": {},
