@@ -1,7 +1,7 @@
 const inquirer = require('inquirer');
 const fs = require(`fs`);
 
-const generateMarkdown = (answers) 
+const generateMarkdown = ({answers}) =>
 
 
 `#  ${answers.title}
@@ -65,7 +65,7 @@ inquirer
             type:'list',
             name:'license',
             message:'Project License?',
-            choices: [BSD, MIT, GPL]
+            choices: ["BSD", "MIT", "GPL"]
 
         },
         {
