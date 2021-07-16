@@ -1,7 +1,8 @@
 # README.mdGenerator
 
-The Readme of all read mes
+The Readme of all Readmes
 
+![READMESCREENSHOT](https://user-images.githubusercontent.com/85463607/125920543-ca8f87b5-ae39-40f6-ba64-f555623b3b2c.png)
 
 #  Read Me Generator
 
