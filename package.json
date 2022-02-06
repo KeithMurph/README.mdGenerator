@@ -1,5 +1,5 @@
 {
-  "name": "c",
+  "name": "newReadMeGen",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
@@ -15,6 +15,7 @@
     "url": "https://github.com/KeithMurph/README.mdGenerator/issues"
   },
   "homepage": "https://github.com/KeithMurph/README.mdGenerator#readme",
+  "bin": "./index.js",
   "dependencies": {
    
     "inquirer": "^8.1.2"
