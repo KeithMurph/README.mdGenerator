@@ -6,6 +6,7 @@ import inquirer from 'inquirer';
 import fs from 'fs';
 // markdown template
 import generateMarkdown from "./generateMarkdown.cjs"
+// import sample from "./sample"
 // questions / inquirer prompt
 const questions = [{
         type: 'confirm',
@@ -85,7 +86,7 @@ function init() {
     inquirer.prompt(questions)
         .then(function (data) {
            console.log("%cDont forget to add screenshots!", "color: white; background-color: #26bfa5;");
-            writeToFile("sample/readme.md", generateMarkdown(data));
+            writeToFile("readme.md", generateMarkdown(data));
         })
 }
 
