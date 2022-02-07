@@ -16,7 +16,7 @@ The Readme of all Readmes
  - [Installation](#howToInstall)
  - [Usage](#usage)
  - [Credits](#credits)
- - [Licence](#license)
+ - [License](#license)
  - [Questions](#questions)
 
  ## Installation
