@@ -1,17 +1,17 @@
 
-#  
+#  Sample 1
 
- ## License  BSD
+ ## License  MIT
 
 
  ## Description
- 
+ sample Description 
 
  ## Table of Contents
  - [Installation](#howToInstall)
  - [Usage](#usage)
  - [Credits](#credits)
- - [Licence](#license)
+ - [License](#license)
  - [Questions](#questions)
 
  ## Installation
@@ -24,9 +24,7 @@
 
  ## Credits
 - 
-- undefined
-- undefined
-- undefined
+
 
 
  ## Tests

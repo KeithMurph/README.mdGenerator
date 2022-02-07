@@ -1,5 +1,5 @@
-function generateMarkdown(data){
-    return`
+function generateMarkdown(data) {
+  return `
 #  ${data.title}
 
  ## License  ${data.license}
@@ -12,7 +12,7 @@ function generateMarkdown(data){
  - [Installation](#howToInstall)
  - [Usage](#usage)
  - [Credits](#credits)
- - [Licence](#license)
+ - [License](#license)
  - [Questions](#questions)
 
  ## Installation
@@ -25,9 +25,7 @@ function generateMarkdown(data){
 
  ## Credits
 - ${data.credit}
-- ${data.credit1}
-- ${data.credit2}
-- ${data.credit3}
+
 
 
  ## Tests

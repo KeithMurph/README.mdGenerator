@@ -1,7 +1,8 @@
 {
-  "name": "newReadMeGen",
+  "name": "cliREADME",
   "version": "1.0.0",
   "main": "index.js",
+  "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -17,9 +18,8 @@
   "homepage": "https://github.com/KeithMurph/README.mdGenerator#readme",
   "bin": "./index.js",
   "dependencies": {
-   
+    "fs": "^0.0.1-security",
     "inquirer": "^8.1.2"
   },
-  "devDependencies": {},
   "description": ""
 }

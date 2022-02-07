@@ -1,8 +1,11 @@
+#!/usr/bin/env node
+
 // dependencies
-const inquirer = require('inquirer');
-const fs = require('fs');
+import inquirer from 'inquirer';
+
+import fs from 'fs';
 // markdown template
-const generateMarkdown = require("./generateMarkdown")
+import generateMarkdown from "./generateMarkdown.cjs"
 // questions / inquirer prompt
 const questions = [{
         type: 'confirm',
