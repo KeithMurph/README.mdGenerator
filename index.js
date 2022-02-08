@@ -11,7 +11,7 @@ import generateMarkdown from "./generateMarkdown.cjs"
 const questions = [{
         type: 'confirm',
         name: 'confirm',
-        message: 'Would you like to write a README.md?'
+        message: 'Lets write your README.md?'
     },
     {
         type: 'input',
@@ -34,7 +34,7 @@ const questions = [{
     },
     {
         type: 'input',
-        name: 'install/dependencies',
+        name: 'install',
         message: 'How to Install?'
 
     },
