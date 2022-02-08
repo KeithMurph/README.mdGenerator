@@ -36,7 +36,11 @@ To run the program
 
  ## Usage
  If globally installed write cli-readme-gen in your terminal. 
- Go through the questionnaire to fill out your README.md essentials, It will write a file named 'readme.md' to C: Users/user/readme.md. Copy it over to your Repo and have a professional consistent style on all your README.md files!
+ <hr>
+ 
+ Go through the questionnaire to fill out your README.md essentials
+ <br>
+ It will write a file named 'readme.md' to C: Users/user/readme.md. Copy it over to your Repo and have a professional consistent style on all your README.md files!
     
    ![pika-2022-02-08T20_20_14 718Z](https://user-images.githubusercontent.com/85463607/153069132-cd400ba6-3ebb-48b2-970c-2096075b1569.png)
 ![pika-2022-02-08T20_20_27 622Z](https://user-images.githubusercontent.com/85463607/153069143-28c0f9a5-8496-481b-87b3-02680030e732.png)
