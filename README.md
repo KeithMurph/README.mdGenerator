@@ -3,7 +3,7 @@
 
  ## License  MIT
  
- npm i -g cli-readme-gen .
+ npm i -g cli-readme-gen 
  <hr>
  I hope this makes the stress of writing readme files easier for you.
  <hr>
