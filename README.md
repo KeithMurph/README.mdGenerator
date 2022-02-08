@@ -1,11 +1,11 @@
 
-#  
+#  i dont know
 
- ## License  BSD
+ ## License  MIT
 
 
  ## Description
- 
+ this is the description 
 
  ## Table of Contents
  - [Installation](#howToInstall)
@@ -18,23 +18,23 @@
  undefined
 
  ## Usage
- 
+ this is the usage
     
    
 
  ## Credits
-- 
+- just me
 
 
 
  ## Tests
 
- - 
+ - no
 
  ## Questions
 
  - Github profile
-  
+  ke
 
   -Email
-  
+  ke
