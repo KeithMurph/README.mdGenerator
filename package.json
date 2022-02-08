@@ -1,6 +1,6 @@
 {
   "name": "cli-readme-gen",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "index.js",
   "type": "module",
   "scripts": {
@@ -16,9 +16,7 @@
     "url": "https://github.com/KeithMurph/README.mdGenerator/issues"
   },
   "homepage": "https://github.com/KeithMurph/README.mdGenerator#readme",
-  "bin":
-    "./index.js",
-  
+  "bin": "./index.js",
   "dependencies": {
     "fs": "^0.0.1-security",
     "inquirer": "^8.1.2"
