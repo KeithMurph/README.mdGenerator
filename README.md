@@ -8,6 +8,8 @@
  I hope this makes the stress of writing readme files easier for you.
  <hr>
  Use this pacage to fill in the form below!
+ <hr>
+ 
 ![pika-2022-02-08T20_25_41 000Z](https://user-images.githubusercontent.com/85463607/153069953-d59dfe7d-ca99-40ff-bfa0-b73468d41ab3.png)
 
 ![pika-2022-02-08T20_19_42 555Z](https://user-images.githubusercontent.com/85463607/153069119-2ca786b8-0610-444d-9f06-a4e53b7cde5c.png)
