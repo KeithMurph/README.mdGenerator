@@ -4,10 +4,10 @@
  ## License  MIT
  
  npm i -g cli-readme-gen 
- <hr>
+ <br>
  I hope this makes the stress of writing readme files easier for you.
- <hr>
- Use this pacage to fill in the form below!
+ <br>
+ Use this package to fill in the form below!
 
  
 ![pika-2022-02-08T20_25_41 000Z](https://user-images.githubusercontent.com/85463607/153069953-d59dfe7d-ca99-40ff-bfa0-b73468d41ab3.png)
