@@ -2,6 +2,8 @@
 #  README.md Generator
 
  ## License  MIT
+ Generate your fully completed READme.md file from the command line!
+ <hr> 
  
  npm i -g cli-readme-gen 
  <hr>
