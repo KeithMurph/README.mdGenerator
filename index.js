@@ -16,7 +16,7 @@ const questions = [{
     {
         type: 'text',
         name: 'note',
-        message: `${chalk.red('WARNING if readme.md already exists at C:/Users/user it will be overwritten!' )}`
+        message: `${chalk.red('WARNING if README.md already exists at C:/Users/user it will be overwritten!' )}`
     },
     {
         type: 'input',
