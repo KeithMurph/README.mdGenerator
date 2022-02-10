@@ -42,7 +42,7 @@ If you cloned repo start with 'node index.js'
   <br>
    Install in your terminal and if installed globally use 'cli-readme-gen' to run file.
   <br>
-  This was originally an assingment from by bootcamp. I've used it for every project and updated it to publish as a package. 
+  This was originally an assingment from by bootcamp. I've used it for every project and decided to updated it to publish as a package. 
 
   ## Recent Updates
  npm update -g 
