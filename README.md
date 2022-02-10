@@ -9,17 +9,27 @@ Follow prompt to write a readme like the one below
 
 
 ## Installation
+npm i cli-readme-gen
 
   ## Run
+  npm update -g
+  <br>
+  cli-readme-gen
 
 
 
 
 ## Description
-
+  Use to easily create professional looking readme files fast from the command line. Install in your terminal and if installed globally use 'cli-readme-gen' to run file.
+  <br>
+  This was originally an assingment from by bootcamp. I've used it for every project and updated it to publish as a package. 
 
   ## Recent Updates
- 
+  npm update -g
+  <br>
+  -Added color with chalk (2/10/2022)
+  <br>
+  -Added License badge (2/09/2022)
 
 ## Table of Contents
   - [Installation](#howToInstall)
@@ -77,9 +87,9 @@ For Developers to write professional README files quickly from the command line
 ## Questions
 
   -Github:
-  [https://github.com/](https://github.com/)
+  [https://github.com/]KeithMurph(https://github.com/)
 
-  -Email:
+  -Email: keithmurphy.dev@gmail.com
   
   
   
