@@ -3,7 +3,7 @@
 // dependencies
 import inquirer from 'inquirer';
 import chalk from 'chalk';
-import fs, { ReadStream } from 'fs';
+import fs from 'fs';
 
 import generateMarkdown from "./generateMarkdown.cjs"
 
@@ -120,7 +120,7 @@ function init() {
     inquirer.prompt(questions)
         .then(function (data) {
            console.log(`${chalk.yellowBright('Dont forget to add screenshots!')}`)
-            writeToFile("readme.md", generateMarkdown(data));
+            writeToFile("README.md", generateMarkdown(data));
         })
 }
 

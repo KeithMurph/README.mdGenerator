@@ -3,7 +3,7 @@ Generate a pro README.md file from the command line!
 
 <br>
 
-Follow prompt to write a readme like the one below
+Follow command line prompt to write a readme.md like the example below
 
 ![pika-2022-02-10T12_31_36 828Z](https://user-images.githubusercontent.com/85463607/153409187-c0beade1-b9ad-4805-b00c-648800b62ce6.png)
 
