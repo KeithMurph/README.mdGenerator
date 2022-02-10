@@ -68,6 +68,12 @@ const questions = [{
     },
     {
         type: 'input',
+        name: 'dependencies',
+        message: 'List Used Dependencies?'
+
+    },
+    {
+        type: 'input',
         name: 'run',
         message: 'How to run?'
 

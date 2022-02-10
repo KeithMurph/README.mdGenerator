@@ -1,64 +1,57 @@
-#  README Generator
-Generate a pro README.md file from the command line!
+
+
+#  README.md Generator
+Generate professional README.md files from the command line!
 
 <br>
 
-Follow command line prompt to write a README.md like the example below
-
-![111](https://user-images.githubusercontent.com/85463607/153422100-665dcb0b-3e0f-4ba4-b85d-7a7ae7d82c7f.png)
-
+Follow prompt to write a README.md like the one below
 
 ## Table of Contents
   - [Installation](#howToInstall)
+  - [Description](#description)
   - [Usage](#usage)
-  - [Description](#usage)
+  - [Dependencies](#dependencies)
   - [Updates](#updates)
   - [Credits](#credits)
   - [License](#license)
   - [Questions](#questions)
 
 
+  
 ## Installation
-npm i cli-readme-gen
+npm i -g cli-readme-gen
+<br>
+Feel free to clone/fork the repo(make sure you install dependencies)
 
-  ## Run
-  npm update -g
-  <br>
-  <br>
-  cli-readme-gen
+  ## Dependencies
+  'fs', 'chalk', 'inquirer' 
 
+  ## How to Run
+cli-readme-gen
+<br>
+If you cloned repo start with 'node index.js'
 
 
 
 ## Description
-  Use to easily create professional looking readme files fast from the command line.
+ Use to easily create professional looking readme files fast from the command line.
   <br>
    Install in your terminal and if installed globally use 'cli-readme-gen' to run file.
   <br>
   This was originally an assingment from by bootcamp. I've used it for every project and updated it to publish as a package. 
 
   ## Recent Updates
-  npm update -g
-  <br>
-  
-  -Added color with chalk (2/10/2022)
-  <br>
-  -Added License badge (2/09/2022)
-
-
+ npm update -g 
+ <br>
+-Added color with 'chalk' (2/10/2022)
+-Added License badge (2/09/2022)
 
 
 ## Usage
-
-For Developers to write professional README files quickly from the command line
-
+To help developers quickly write professional README files from the command line/
 
 ![111](https://user-images.githubusercontent.com/85463607/153422100-665dcb0b-3e0f-4ba4-b85d-7a7ae7d82c7f.png)
-
-
-
-
-
     
 
 ## Credits
@@ -88,14 +81,14 @@ For Developers to write professional README files quickly from the command line
 
 ## Tests
 
-- NA
+- 
 
 ## Questions
 
   -Github:
-  [https://github.com/KeithMurph]
+  [https://github.com/KeithMurph](https://github.com/KeithMurph)
 
-  -Email:[keithmurphy.dev@gmail.com]
-  
+  -Email:
+  keithmurphy.dev@gmail.com
   
   

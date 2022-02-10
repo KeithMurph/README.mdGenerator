@@ -110,8 +110,9 @@ ${data.tagline}
 
 ## Table of Contents
   - [Installation](#howToInstall)
+  - [Description](#description)
   - [Usage](#usage)
-  - [Description](#usage)
+  - [Dependencies](#dependencies)
   - [Updates](#updates)
   - [Credits](#credits)
   - [License](#license)
@@ -121,7 +122,11 @@ ${data.tagline}
   
 ## Installation
 ${data.install}
-  ## Run
+
+  ## Dependencies
+  ${data.dependencies} 
+
+  ## How to Run
 ${data.run}
 
 
