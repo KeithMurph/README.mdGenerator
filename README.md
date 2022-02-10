@@ -3,6 +3,10 @@
 #  README Generator
 Generate a README.md file from the command line
 
+![pika-2022-02-10T09_23_16 795Z](https://user-images.githubusercontent.com/85463607/153377110-71c013a9-7470-4964-bd2f-d7ff06bdf011.png)
+
+
+
 ## Installation
 npm i -cli-readme-gen
   ## Run
@@ -12,6 +16,8 @@ cli-readme-gen
 
 ## Description
 Use to easily create your readme files so you can spend more time actually coding!
+
+
 
   ### Recent Updates
 Now has License tag and better layout 
@@ -27,12 +33,17 @@ Now has License tag and better layout
 
 ## Usage
 For Developers to write professional README files quickly from the command line
+
+![pika-2022-02-10T09_23_41 465Z](https://user-images.githubusercontent.com/85463607/153377230-bc83446d-4d53-4622-9c69-5dc1c8a82f60.png)
+
     
 
 ## Credits
   -NA
 
 ## License
+![pika-2022-02-10T09_23_27 211Z](https://user-images.githubusercontent.com/85463607/153377186-68fe2cb5-9bd9-4c46-bda5-086f352d665d.png)
+
 
   [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
   
