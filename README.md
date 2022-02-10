@@ -13,7 +13,7 @@ cli-readme-gen
 ## Description
 Use to easily create your readme files so you can spend more time actually coding!
 
-    ## Recent Updates
+   ## Recent Updates
 Now has License tag and better layout 
 
 ## Table of Contents
