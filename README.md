@@ -11,9 +11,6 @@ Follow prompt to write a readme like the one below
 ![pika-2022-02-10T12_31_36 828Z](https://user-images.githubusercontent.com/85463607/153409187-c0beade1-b9ad-4805-b00c-648800b62ce6.png)
 
 
->>>>>>> 7e73173ba9d18f997c941bb6f0e9181c79f0c2ba
-
-
 ## Installation
 
   ## Run
@@ -37,13 +34,12 @@ Follow prompt to write a readme like the one below
 
 
 ## Usage
-<<<<<<< HEAD
-=======
+
 For Developers to write professional README files quickly from the command line
 
 ![pika-2022-02-10T12_30_51 195Z](https://user-images.githubusercontent.com/85463607/153409216-e442a25e-bedc-4787-b572-d0f43c2cda77.png)
 
->>>>>>> 7e73173ba9d18f997c941bb6f0e9181c79f0c2ba
+
 
     
 
