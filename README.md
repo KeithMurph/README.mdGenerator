@@ -7,7 +7,8 @@ Generate a pro README.md file from the command line!
 
 Follow prompt to write a readme like the one below
 
-![pika-2022-02-10T09_23_16 795Z](https://user-images.githubusercontent.com/85463607/153377110-71c013a9-7470-4964-bd2f-d7ff06bdf011.png)
+![pika-2022-02-10T12_31_36 828Z](https://user-images.githubusercontent.com/85463607/153409187-c0beade1-b9ad-4805-b00c-648800b62ce6.png)
+
 
 
 
@@ -44,7 +45,8 @@ npm update -g
 ## Usage
 For Developers to write professional README files quickly from the command line
 
-![pika-2022-02-10T09_23_41 465Z](https://user-images.githubusercontent.com/85463607/153377230-bc83446d-4d53-4622-9c69-5dc1c8a82f60.png)
+![pika-2022-02-10T12_30_51 195Z](https://user-images.githubusercontent.com/85463607/153409216-e442a25e-bedc-4787-b572-d0f43c2cda77.png)
+
 
     
 
