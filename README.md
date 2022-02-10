@@ -13,6 +13,9 @@ Generate a pro README.md file from the command line!
 npm i -cli-readme-gen
   ## Run
 cli-readme-gen
+<br>
+
+npm update -g
 
 
 
@@ -22,7 +25,11 @@ Use to easily create your readme files so you can spend more time actually codin
 
 
   ### Recent Updates
-Now has License tag and better layout 
+Now has License tag and better layout.
+<br>
+To update.
+<br>
+npm update -g
 
 ## Table of Contents
   - [Installation](#howToInstall)
