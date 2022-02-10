@@ -5,7 +5,7 @@ Generate a README.md file from the command line
 
 ## Installation
 npm i -cli-readme-gen
-    ### Run
+  ### Run
 cli-readme-gen
 
 

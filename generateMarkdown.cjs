@@ -148,11 +148,11 @@ ${renderLicenseSection(data)}
 
 ## Questions
 
-  - Github profile
+- Github profile
   ${data.github}
-
-  - Email
+- Email
   ${data.email}
+  
   `;
 }
 
