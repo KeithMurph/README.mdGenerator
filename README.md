@@ -1,8 +1,6 @@
 
 
-<<<<<<< HEAD
-#  
-=======
+
 #  README Generator
 Generate a pro README.md file from the command line!
 
