@@ -1,6 +1,6 @@
 {
   "name": "cli-readme-gen",
-  "version": "1.0.11",
+  "version": "1.0.12",
   "main": "index.js",
   "type": "module",
   "scripts": {
@@ -23,7 +23,6 @@
     "README.md",
     "terminal",
     "generate"
-
   ],
   "homepage": "https://github.com/KeithMurph/README.mdGenerator#readme",
   "bin": "./index.js",
