@@ -1,4 +1,3 @@
-
 #  README Generator
 Generate a pro README.md file from the command line!
 
@@ -7,8 +6,6 @@ Generate a pro README.md file from the command line!
 Follow prompt to write a readme like the one below
 
 ![pika-2022-02-10T12_31_36 828Z](https://user-images.githubusercontent.com/85463607/153409187-c0beade1-b9ad-4805-b00c-648800b62ce6.png)
-
-
 
 
 ## Installation
@@ -34,7 +31,16 @@ Follow prompt to write a readme like the one below
 
 
 ## Usage
+
 For Developers to write professional README files quickly from the command line
+
+<br>
+
+For Developers to write professional README files quickly from the command line
+
+![pika-2022-02-10T12_30_51 195Z](https://user-images.githubusercontent.com/85463607/153409216-e442a25e-bedc-4787-b572-d0f43c2cda77.png)
+
+
 
 
     
