@@ -109,7 +109,7 @@ function generateMarkdown(data) {
 ${data.tagline}
 
 ## Table of Contents
-  - [Installation](#howToInstall)
+  - [Installation](#Installation)
   - [Description](#description)
   - [Usage](#usage)
   - [Dependencies](#dependencies)
