@@ -5,7 +5,7 @@ Generate a README.md file from the command line
 
 ## Installation
 npm i -cli-readme-gen
-  ### Run
+  ## Run
 cli-readme-gen
 
 
@@ -13,7 +13,7 @@ cli-readme-gen
 ## Description
 Use to easily create your readme files so you can spend more time actually coding!
 
-    ### Recent Updates
+  ### Recent Updates
 Now has License tag and better layout 
 
 ## Table of Contents
@@ -59,9 +59,9 @@ For Developers to write professional README files quickly from the command line
 
 ## Questions
 
-- Github profile
+  -Github profile
   KeithMurph
 
-  - Email
+  -Email
   keithmurphy94@gmail.com
   
