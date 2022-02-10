@@ -9,9 +9,9 @@ import generateMarkdown from "./generateMarkdown.cjs"
 // import sample from "./sample"
 // questions / inquirer prompt
 const questions = [{
-        type: 'confirm',
+        type: 'message',
         name: 'confirm',
-        message: 'Lets write your README.md?'
+        message: 'Lets write your README.md'
     },
     {
         type: 'input',
@@ -23,13 +23,36 @@ const questions = [{
         type: 'list',
         name: 'license',
         message: 'Project License?',
-        choices: ["BSD", "MIT", "GPL"]
+        choices: ["MIT", "Apache", "Mozilla", "GPL","No License"]
 
     },
     {
         type: 'input',
+        name: 'name',
+        message: 'What is your name?'
+    },
+    {
+        type: 'input',
+        name: 'year',
+        message: 'Enter date?'
+    },
+    
+    {
+        type: 'input',
         name: 'description',
-        message: 'Project description?'
+        message: 'Complete Project description?'
+
+    },
+    {
+        type: 'input',
+        name: 'tagline',
+        message: 'Tagline? (1 to 2 Sentences max!)'
+
+    },
+    {
+        type: 'input',
+        name: 'updates',
+        message: 'Any notable updates?'
 
     },
     {
@@ -40,8 +63,14 @@ const questions = [{
     },
     {
         type: 'input',
+        name: 'run',
+        message: 'How to run?'
+
+    },
+    {
+        type: 'input',
         name: 'usage',
-        message: 'Usage?'
+        message: 'Usage/Intended Audience?'
 
     },
     {

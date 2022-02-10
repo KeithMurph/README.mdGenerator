@@ -1,66 +1,67 @@
 
-#  README.md Generator
+  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+#  README Generator
+Generate a README.md file from the command line
 
- ## License  MIT
- Generate your fully completed READme.md file from the command line!
- <hr> 
- 
- npm i -g cli-readme-gen 
- <hr>
- I hope this makes the stress of writing readme files easier for you.
- <hr>
- Use this package to fill in the form below!
-
- 
-![pika-2022-02-08T20_25_41 000Z](https://user-images.githubusercontent.com/85463607/153069953-d59dfe7d-ca99-40ff-bfa0-b73468d41ab3.png)
-
-<hr>
-
-To run the program 
-
-
-![pika-2022-02-08T20_19_42 555Z](https://user-images.githubusercontent.com/85463607/153069119-2ca786b8-0610-444d-9f06-a4e53b7cde5c.png)
+## Installation
+npm i -cli-readme-gen
+    ### Run
+cli-readme-gen
 
 
 
- ## Description
- Easily write your README.md files from the terminal.
+## Description
+Use to easily create your readme files so you can spend more time actually coding!
 
- ## Table of Contents
- - [Installation](#howToInstall)
- - [Usage](#usage)
- - [Credits](#credits)
- - [License](#license)
- - [Questions](#questions)
+    ### Recent Updates
+Now has License tag and better layout 
 
- ## Installation
- npm i -g cli-readme-gen
+## Table of Contents
+  - [Installation](#howToInstall)
+  - [Usage](#usage)
+  - [Credits](#credits)
+  - [License](#license)
+  - [Questions](#questions)
 
- ## Usage
- If globally installed write cli-readme-gen in your terminal. 
- <hr>
- 
- Go through the questionnaire to fill out your README.md essentials
- <br>
- It will write a file named 'readme.md' to C: Users/user/readme.md.
- <br>
- Copy it over to your Repo and have a professional consistent style on all your README.md files!
+
+
+## Usage
+For Developers to write professional README files quickly from the command line
     
-   ![pika-2022-02-08T20_20_14 718Z](https://user-images.githubusercontent.com/85463607/153069132-cd400ba6-3ebb-48b2-970c-2096075b1569.png)
-![pika-2022-02-08T20_20_27 622Z](https://user-images.githubusercontent.com/85463607/153069143-28c0f9a5-8496-481b-87b3-02680030e732.png)
 
- ## Credits
-- Was an assignment from my bootcamp, that I updated to publish as a package. 
+## Credits
+  -NA
 
 
- ## Tests
+## License
 
- - You can also clone the repo and run index.js to write your README.md files
+  
+  This project is covered under MIT.
+  <details>
+    <summary>
+      See License
+    </summary> 
+  
+  ```
+  Copyright <2022> <Keith Murphy>
+  Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+  The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+  
+  THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+  ```
+  </details>
+  
 
- ## Questions
 
- - Github profile
+## Tests
+
+- NA
+
+## Questions
+
+- Github profile
   KeithMurph
 
-  -Email
-  keithmurphy.dev@gmail.com
+  - Email
+  keithmurphy94@gmail.com
+  
