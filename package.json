@@ -15,6 +15,16 @@
   "bugs": {
     "url": "https://github.com/KeithMurph/README.mdGenerator/issues"
   },
+  "keywords": [
+    "cli",
+    "readme",
+    "README",
+    "readme.md",
+    "README.md",
+    "terminal",
+    "generate"
+
+  ],
   "homepage": "https://github.com/KeithMurph/README.mdGenerator#readme",
   "bin": "./index.js",
   "dependencies": {
