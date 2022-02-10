@@ -57,7 +57,7 @@ const questions = [{
     {
         type: 'input',
         name: 'updates',
-        message: 'Any notable updates?'
+        message: 'Recent updates?'
 
     },
     {

@@ -108,6 +108,16 @@ function generateMarkdown(data) {
 #  ${data.title}
 ${data.tagline}
 
+## Table of Contents
+  - [Installation](#howToInstall)
+  - [Usage](#usage)
+  - [Description](#usage)
+  - [Updates](#updates)
+  - [Credits](#credits)
+  - [License](#license)
+  - [Questions](#questions)
+
+
 ## Installation
 ${data.install}
   ## Run
@@ -120,13 +130,6 @@ ${data.description}
 
   ## Recent Updates
 ${data.updates} 
-
-## Table of Contents
-  - [Installation](#howToInstall)
-  - [Usage](#usage)
-  - [Credits](#credits)
-  - [License](#license)
-  - [Questions](#questions)
 
 
 
