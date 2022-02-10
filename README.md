@@ -7,7 +7,8 @@ Generate professional README.md files from the command line!
 
 Follow prompt to write a README.md like the one below
 
-![pika-2022-02-10T14_17_16 942Z](https://user-images.githubusercontent.com/85463607/153428819-c561b9ae-1860-48e1-93af-b2384e680ab4.png)
+![final1](https://user-images.githubusercontent.com/85463607/153432872-9fc4e4d5-5d01-4458-912e-c1dccce35f51.png)
+
 
 
 ## Table of Contents
@@ -53,7 +54,8 @@ If you cloned repo start with 'node index.js'
 ## Usage
 To help developers quickly write professional README files from the command line/
 
-![pika-2022-02-10T13_40_47 632Z](https://user-images.githubusercontent.com/85463607/153428911-19f2ffca-0e02-4242-96cf-f60c78f8b260.png)
+
+![final2](https://user-images.githubusercontent.com/85463607/153432908-20f1423f-6812-44b2-a4ae-8f23f055ba63.png)
 
     
 
@@ -62,7 +64,9 @@ To help developers quickly write professional README files from the command line
 
 
 ## License
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+![pika-2022-02-10T14_51_48 226Z](https://user-images.githubusercontent.com/85463607/153432952-99e867ce-1f22-4aa5-bffa-7c2c338c1a56.png)
+
 
   
   This project is covered under MIT.
