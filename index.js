@@ -3,15 +3,20 @@
 // dependencies
 import inquirer from 'inquirer';
 import chalk from 'chalk';
-import fs from 'fs';
+import fs, { ReadStream } from 'fs';
 
 import generateMarkdown from "./generateMarkdown.cjs"
 
 // questions / inquirer prompt
 const questions = [{
-        type: 'message',
+        type: 'text',
         name: 'confirm',
-        message: `${chalk.green('Lets write your README.md')}`
+        message: `${chalk.green('Lets write a README.md')}`
+    },
+    {
+        type: 'text',
+        name: 'note',
+        message: `${chalk.red('WARNING if readme.md already exists at C:/Users/user it will be overwritten!' )}`
     },
     {
         type: 'input',
@@ -106,7 +111,7 @@ function writeToFile(fileName, data) {
         if (err) {
             return console.log(err);
         }
-        console.log(`${chalk.green('Successfully wrote file!')} ` + fileName +  ` ${chalk.green('C:Users/user')}`);
+        console.log(`${chalk.green('Successfully wrote file!')} ` + fileName +  ` ${chalk.green('C:/Users/user')}`);
     })
 }
 // generate markdown file
