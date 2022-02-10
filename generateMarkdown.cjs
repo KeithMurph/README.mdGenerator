@@ -149,9 +149,9 @@ ${renderLicenseSection(data)}
 
 ## Questions
 
-  -Github profile
-  ${data.github}
-  -Email
+  -Github:
+  [https://github.com/${data.github}](https://github.com/${data.github})\n
+  -Email:
   ${data.email}
   
   `;
