@@ -1,8 +1,9 @@
 
 
 #  README Generator
-Generate a README.md file from the command line
-
+Generate a Prom readme file from the command line
+<hr>
+Use to fill in the form below
 ![pika-2022-02-10T09_23_16 795Z](https://user-images.githubusercontent.com/85463607/153377110-71c013a9-7470-4964-bd2f-d7ff06bdf011.png)
 
 
