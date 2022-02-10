@@ -1,20 +1,20 @@
 
   [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-#  sdfsdf
-sdf
+#  sdfsdfsdf
+sdfsdfsdf
 
 ## Installation
-fsdfs
+sdfsdf
   ### Run
- dfs
+ sdfsd
 
 
 
  ## Description
- sdfsd
+ sdfsdfsdfsd
 
   ### Recent Updates
- sdfsd 
+ sdfsdfsdf 
 
  ## Table of Contents
  - [Installation](#howToInstall)
@@ -26,15 +26,15 @@ fsdfs
 
 
  ## Usage
- df
+ sdfdsf
     
    
 
  ## Credits
-- dfs
+- sdf
+
 
 #
-
   ## License
   This project is covered under MIT.
   <details>
@@ -43,7 +43,7 @@ fsdfs
     </summary> 
   
   ```
-  Copyright <sdfsdf> <sdfsdf>
+  Copyright <sdfsdfsdf> <sdfsdfsdfsdf>
   Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
   The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
   
@@ -55,13 +55,13 @@ fsdfs
 
  ## Tests
 
- - sdf
+ - sdfsd
 
  ## Questions
 
  - Github profile
-  sdf
+  dd
 
   - Email
-  sdf
+  df
   
