@@ -20,13 +20,16 @@ npm i cli-readme-gen
 
 
 ## Description
-  Use to easily create professional looking readme files fast from the command line. Install in your terminal and if installed globally use 'cli-readme-gen' to run file.
+  Use to easily create professional looking readme files fast from the command line.
+  <br>
+   Install in your terminal and if installed globally use 'cli-readme-gen' to run file.
   <br>
   This was originally an assingment from by bootcamp. I've used it for every project and updated it to publish as a package. 
 
   ## Recent Updates
   npm update -g
   <br>
+  
   -Added color with chalk (2/10/2022)
   <br>
   -Added License badge (2/09/2022)
@@ -87,7 +90,7 @@ For Developers to write professional README files quickly from the command line
 ## Questions
 
   -Github:
-  [https://github.com/]KeithMurph
+  [https://github.com/KeithMurph](https://github.com/)
 
   -Email: keithmurphy.dev@gmail.com
   
