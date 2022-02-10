@@ -1,5 +1,5 @@
 
-  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 #  README Generator
 Generate a README.md file from the command line
 
@@ -32,7 +32,7 @@ For Developers to write professional README files quickly from the command line
 ## Credits
   -NA
 
-
+  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 ## License
 
   
