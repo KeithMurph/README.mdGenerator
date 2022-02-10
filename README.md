@@ -35,7 +35,7 @@ npm i
 
 
 
-  ## License
+ ## License
   This project is covered under MIT.
   <details>
     <summary>
