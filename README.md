@@ -48,8 +48,9 @@ npm i cli-readme-gen
 For Developers to write professional README files quickly from the command line
 
 
+![pika-2022-02-10T13_40_47 632Z](https://user-images.githubusercontent.com/85463607/153419784-f70864e7-4047-45cc-af55-a5a299df34c2.png)
 
-![pika-2022-02-10T12_30_51 195Z](https://user-images.githubusercontent.com/85463607/153409216-e442a25e-bedc-4787-b572-d0f43c2cda77.png)
+
 
 
 
