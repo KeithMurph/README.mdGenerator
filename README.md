@@ -7,6 +7,9 @@ Generate professional README.md files from the command line!
 
 Follow prompt to write a README.md like the one below
 
+![pika-2022-02-10T14_17_16 942Z](https://user-images.githubusercontent.com/85463607/153428819-c561b9ae-1860-48e1-93af-b2384e680ab4.png)
+
+
 ## Table of Contents
   - [Installation](#howToInstall)
   - [Description](#description)
@@ -51,7 +54,8 @@ If you cloned repo start with 'node index.js'
 ## Usage
 To help developers quickly write professional README files from the command line/
 
-![111](https://user-images.githubusercontent.com/85463607/153422100-665dcb0b-3e0f-4ba4-b85d-7a7ae7d82c7f.png)
+![pika-2022-02-10T13_40_47 632Z](https://user-images.githubusercontent.com/85463607/153428911-19f2ffca-0e02-4242-96cf-f60c78f8b260.png)
+
     
 
 ## Credits
