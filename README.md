@@ -15,7 +15,6 @@ Follow prompt to write a README.md like the one below
   - [Description](#description)
   - [Usage](#usage)
   - [Dependencies](#dependencies)
-  - [Updates](#recent updates)
   - [Credits](#credits)
   - [License](#license)
   - [Questions](#questions)

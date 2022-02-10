@@ -113,7 +113,6 @@ ${data.tagline}
   - [Description](#description)
   - [Usage](#usage)
   - [Dependencies](#dependencies)
-  - [Updates](#updates)
   - [Credits](#credits)
   - [License](#license)
   - [Questions](#questions)
