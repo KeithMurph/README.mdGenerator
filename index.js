@@ -2,16 +2,16 @@
 
 // dependencies
 import inquirer from 'inquirer';
-
+import chalk from 'chalk';
 import fs from 'fs';
-// markdown template
+
 import generateMarkdown from "./generateMarkdown.cjs"
-// import sample from "./sample"
+
 // questions / inquirer prompt
 const questions = [{
         type: 'message',
         name: 'confirm',
-        message: 'Lets write your README.md'
+        message: `${chalk.green('Lets write your README.md')}`
     },
     {
         type: 'input',
@@ -29,24 +29,24 @@ const questions = [{
     {
         type: 'input',
         name: 'name',
-        message: 'What is your name?'
+        message: 'What is your name?' + `${chalk.yellow('(for license)')}`
     },
     {
         type: 'input',
         name: 'year',
-        message: 'Enter date?'
+        message: 'Enter date?'  + `${chalk.yellow('(for license)')}`
     },
     
     {
         type: 'input',
         name: 'description',
-        message: 'Complete Project description?'
+        message: 'Project description?'
 
     },
     {
         type: 'input',
         name: 'tagline',
-        message: 'Tagline? (1 to 2 Sentences max!)'
+        message: 'Tagline?' + `${chalk.yellow('(First public line if publishing as package on npmjs.com)')}`
 
     },
     {
@@ -106,7 +106,7 @@ function writeToFile(fileName, data) {
         if (err) {
             return console.log(err);
         }
-        console.log("Successfully wrote: " + fileName);
+        console.log(`${chalk.green('Successfully wrote file!')} ` + fileName +  ` ${chalk.green('C:Users/user')}`);
     })
 }
 // generate markdown file
@@ -114,7 +114,7 @@ function writeToFile(fileName, data) {
 function init() {
     inquirer.prompt(questions)
         .then(function (data) {
-           console.log("%cDont forget to add screenshots!", "color: white; background-color: #26bfa5;");
+           console.log(`${chalk.yellowBright('Dont forget to add screenshots!')}`)
             writeToFile("readme.md", generateMarkdown(data));
         })
 }
