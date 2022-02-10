@@ -90,7 +90,7 @@ For Developers to write professional README files quickly from the command line
 ## Questions
 
   -Github:
-  [https://github.com/KeithMurph](https://github.com/)
+  [https://github.com/KeithMurph]
 
   -Email: keithmurphy.dev@gmail.com
   
