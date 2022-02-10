@@ -1,7 +1,7 @@
 
 
 #  README Generator
-Generate a Prom readme file from the command line
+Generate a pro README.md file from the command line!
 
 
 
