@@ -22,7 +22,10 @@
     "readme.md",
     "README.md",
     "terminal",
-    "generate"
+    "generate",
+    "command-line",
+    "command",
+    "line"
   ],
   "homepage": "https://github.com/KeithMurph/README.mdGenerator#readme",
   "bin": "./index.js",
