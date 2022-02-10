@@ -65,8 +65,6 @@ To help developers quickly write professional README files from the command line
 
 ## License
 
-![pika-2022-02-10T14_51_48 226Z](https://user-images.githubusercontent.com/85463607/153432952-99e867ce-1f22-4aa5-bffa-7c2c338c1a56.png)
-
 
   
   This project is covered under MIT.
