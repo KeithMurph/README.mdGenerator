@@ -11,7 +11,7 @@ Follow prompt to write a README.md like the one below
 
 
 ## Table of Contents
-  - [Installation](#howToInstall)
+  - [Installation](#installation)
   - [Description](#description)
   - [Usage](#usage)
   - [Dependencies](#dependencies)
