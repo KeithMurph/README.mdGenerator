@@ -32,9 +32,9 @@ For Developers to write professional README files quickly from the command line
 ## Credits
   -NA
 
-  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 ## License
 
+  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
   
   This project is covered under MIT.
   <details>
