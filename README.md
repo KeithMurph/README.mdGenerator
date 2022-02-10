@@ -14,8 +14,6 @@ npm i -cli-readme-gen
   ## Run
 cli-readme-gen
 <br>
-For latest version
-<br>
 
 npm update -g
 
