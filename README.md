@@ -26,9 +26,8 @@ Use to easily create your readme files so you can spend more time actually codin
 
   ### Recent Updates
 Now has License tag and better layout.
-<br>
-To update.
-<br>
+## To update.
+
 npm update -g
 
 ## Table of Contents
