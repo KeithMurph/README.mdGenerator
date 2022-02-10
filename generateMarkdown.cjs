@@ -104,7 +104,7 @@ function renderLicenseSection(data) {
 
 function generateMarkdown(data) {
   return `
-  ${renderBadge(data.license)}
+
 #  ${data.title}
 ${data.tagline}
 
@@ -139,6 +139,7 @@ ${data.usage}
 
 
 ## License
+${renderBadge(data.license)}
 ${renderLicenseSection(data)}
 
 
