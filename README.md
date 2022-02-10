@@ -5,7 +5,8 @@ Generate a pro README.md file from the command line!
 
 Follow command line prompt to write a README.md like the example below
 
-![pika-2022-02-10T12_31_36 828Z](https://user-images.githubusercontent.com/85463607/153409187-c0beade1-b9ad-4805-b00c-648800b62ce6.png)
+![111](https://user-images.githubusercontent.com/85463607/153422100-665dcb0b-3e0f-4ba4-b85d-7a7ae7d82c7f.png)
+
 
 
 ## Installation
