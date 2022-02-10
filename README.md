@@ -1,20 +1,20 @@
 
   [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-#  sdasd
-asda
+#  README Generator
+Generate a README.md file from the command line
 
 ## Installation
-asd
+npm i -cli-readme-gen
     ### Run
-asd
+cli-readme-gen
 
 
 
 ## Description
-asd
+Use to easily create your readme files so you can spend more time actually coding!
 
     ### Recent Updates
-sd 
+Now has License tag and better layout 
 
 ## Table of Contents
   - [Installation](#howToInstall)
@@ -26,15 +26,16 @@ sd
 
 
 ## Usage
-asd
+For Developers to write professional README files quickly from the command line
     
 
 ## Credits
-- asd
+  -NA
 
 
-<br>
-  ## License
+## License
+
+  
   This project is covered under MIT.
   <details>
     <summary>
@@ -42,7 +43,7 @@ asd
     </summary> 
   
   ```
-  Copyright <asd> <sdasd>
+  Copyright <2022> <Keith Murphy>
   Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
   The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
   
@@ -54,14 +55,15 @@ asd
 
 ## Tests
 
-- asda
+- NA
 
 ## Questions
 
 - Github profile
-  sdsa
+  KeithMurph
 
   - Email
-  d
+  keithmurphy94@gmail.com
+  
   
 
