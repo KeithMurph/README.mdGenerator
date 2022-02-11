@@ -108,7 +108,8 @@ function generateMarkdown(data) {
 #  ${data.title}
 ${data.tagline}
 <br>
-${renderBadge(data.license)}
+
+  ${renderBadge(data.license)}
 
 ## Table of Contents
   - [Installation](#Installation)
