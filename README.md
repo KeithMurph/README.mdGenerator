@@ -67,8 +67,7 @@ To help developers quickly write professional README files from the command line
 ## License
  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-  
+
   This project is covered under MIT.
   <details>
     <summary>
