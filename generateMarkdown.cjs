@@ -107,6 +107,8 @@ function generateMarkdown(data) {
 
 #  ${data.title}
 ${data.tagline}
+<br>
+${renderBadge(data.license)}
 
 ## Table of Contents
   - [Installation](#Installation)
@@ -147,7 +149,7 @@ ${data.usage}
 
 
 ## License
-${renderBadge(data.license)}
+
 ${renderLicenseSection(data)}
 
 
