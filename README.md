@@ -1,10 +1,10 @@
 #  README.md Generator
 Generate professional README.md files from the command line!
 
-<br>
+<hr>
 
  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) [![npm version](https://badge.fury.io/js/cli-readme-gen.svg)](https://badge.fury.io/js/cli-readme-gen)
-<br>
+<hr>
 
 Follow prompt to write a README.md like the one below
 
