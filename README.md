@@ -1,4 +1,5 @@
 
+[![npm version](https://badge.fury.io/js/cli-readme-gen.svg)](https://badge.fury.io/js/cli-readme-gen)  
 
 #  README.md Generator
 Generate professional README.md files from the command line!
@@ -64,6 +65,7 @@ To help developers quickly write professional README files from the command line
 
 
 ## License
+ [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
   
